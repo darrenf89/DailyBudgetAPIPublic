@@ -1,0 +1,88 @@
+[
+  {
+    "CatName": "Bills",
+    "CategoryIcon": "Receipt long",
+    "SubCategories": [
+      {
+        "SubCatName": "Rent/Mortgage"
+      },
+      {
+        "SubCatName": "Household"
+      },
+      {
+        "SubCatName": "Car"
+      },
+      {
+        "SubCatName": "Technology"
+      },
+      {
+        "SubCatName": "Subscriptions"
+      }
+    ]
+  },
+  {
+    "CatName": "Day to Day",
+    "CategoryIcon": "Today",
+    "SubCategories": [
+      {
+        "SubCatName": "Groceries"
+      },
+      {
+        "SubCatName": "Eating out"
+      },
+      {
+        "SubCatName": "Public Transport"
+      },
+      {
+        "SubCatName": "Treats"
+      }
+    ]
+  },
+  {
+    "CatName": "Wellbeing",
+    "CategoryIcon": "Spa",
+    "SubCategories": [
+      {
+        "SubCatName": "Hobbies"
+      },
+      {
+        "SubCatName": "Entertainment"
+      },
+      {
+        "SubCatName": "Health & Beauty"
+      },
+      {
+        "SubCatName": "Fitness"
+      },
+      {
+        "SubCatName": "Leisure"
+      },
+      {
+        "SubCatName": "Gifts"
+      }
+    ]
+  },
+  {
+    "CatName": "Life Goals",
+    "CategoryIcon": "Track changes",
+    "SubCategories": [
+      {
+        "SubCatName": "Technology"
+      },
+      {
+        "SubCatName": "Cloths"
+      },
+      {
+        "SubCatName": "Holidays"
+      },
+      {
+        "SubCatName": "Education / CPD"
+      },
+      {
+        "SubCatName": "Misc"
+      }
+    ]
+  }
+]
+
+

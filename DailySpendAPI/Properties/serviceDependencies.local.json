@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ServiceLinker/locations/ukwest/connectors/ConnectionStringsDefaultConnectionString_171C49C3FC",
+      "secretStore": "LocalSecretsFile",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/dailybudget/databases/DailyBudget",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:DefaultConnectionString",
+      "dynamicId": null
+    }
+  }
+}
